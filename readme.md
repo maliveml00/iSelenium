@@ -1,4 +1,4 @@
-**Selenium自动化测试项目**
+**Selenium自动化测试项目**-jenkins
 
 1. 代码：java
 2. 项目框架： maven
